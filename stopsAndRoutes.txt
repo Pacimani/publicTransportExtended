@@ -1,0 +1,9 @@
+3
+stop0:0:1
+stop1:1:5
+stop2:3:9
+3
+bus,blue,2:
+train,red,1:
+ferry,Gala,3:
+0
